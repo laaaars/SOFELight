@@ -1,6 +1,6 @@
 {
   "name": "SOFELight",
   "tagline": "",
-  "body": "### Welcome to SOFE\r\n\r\nSimple and Sophisticated Object Oriented Finite Element Environment\r\n",
+  "body": "### Welcome to SOFE\r\n\r\nSimple and Sophisticated Object Oriented Finite Element Environment\r\n\r\n### Documentation\r\n\r\nThe documentation is in progress\r\n\r\n### License\r\n\r\nSOFELight is published under the BSD license.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
